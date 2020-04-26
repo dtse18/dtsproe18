@@ -16,7 +16,10 @@
   .message-wrapper img {
     width: 40%;
   }
-
+  .profile {
+        width: 50%;
+        margin-bottom: 50px;
+    }
 }
 
 /* For Smartphones */
@@ -60,5 +63,15 @@
   .message-wrapper img {
     width: 50%;
   }
-
+  .profile{
+        width: 100%;
+        margin-top: 10px;
+   }
+  .text-contents-eks1 {
+        width: 80%;
+        display: inline-block;
+        margin-top: 0px;
+        font-size: 15px;
+        color: #aaa8ac;
+    }
 }
