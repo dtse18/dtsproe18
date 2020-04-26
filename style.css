@@ -20,7 +20,7 @@ body {
 }
 
 .big {
-    margin-top: 30px;
+    margin-top: 50px;
     margin-bottom: 50px;
     width: 55%;
     opacity: 0.9;
@@ -39,7 +39,7 @@ body {
     }
 
     to {
-        top: 40px
+        top: 55px
     }
 }
 
