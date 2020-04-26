@@ -19,6 +19,19 @@ body {
     text-align: center;
 }
 
+@media (max-width:1000px) {
+    .bu {
+        min-height: 500px;
+    }
+}
+
+@media (max-width:670px) {
+    .bu {
+        min-height: 400px;
+    }
+}
+
+
 .big {
     margin-top: 30px;
     margin-bottom: 75px;
@@ -53,6 +66,12 @@ body {
     letter-spacing: 2px;
     opacity: 0.9;
     text-shadow: 3px 3px 2px #000000;
+}
+
+@media (max-width:670px) {
+    .bu p {
+        font-size: 14px;
+    }
 }
 
 /* akhir bag utama */
