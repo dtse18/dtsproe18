@@ -1,6 +1,6 @@
 /* For Tablets */
 @media all and (max-width: 1000px) {
-  header{
+  .container header {
     width:100%;
   }
   
@@ -28,7 +28,7 @@
 
 /* For Smartphones */
 @media all and (max-width: 670px) {
-   header{
+  .container header{
     width:100%;
   }
   
