@@ -1,5 +1,9 @@
 /* For Tablets */
 @media all and (max-width: 1000px) {
+  header{
+    width:100%;
+  }
+  
   .lesson {
     width: 50%;
     margin-bottom: 50px;
@@ -24,7 +28,11 @@
 
 /* For Smartphones */
 @media all and (max-width: 670px) {
-  .header-right{
+   header{
+    width:100%;
+  }
+  
+    .header-right{
     display:none;
   }
   .menu-icon{
